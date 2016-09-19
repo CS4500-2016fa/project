@@ -1,0 +1,1 @@
+../linux-2.6.32/arch/x86/kernel/syscall_table_32.S

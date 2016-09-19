@@ -1,3 +1,9 @@
+# Linux source code
+linux-*
+
+# Misc files we don't want
+*.o.cmd
+
 # Object files
 *.o
 *.ko
